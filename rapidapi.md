@@ -134,7 +134,7 @@ response headers.
 
 ## 5. WHAT'S REST API
 
-REST (Representational State Transfer) APIs allow computers to talk to
+REST (REpresentational State Transfer) APIs allow computers to talk to
 each other over the internet in a way that is standardized and easy to
 understand.
 
@@ -258,7 +258,6 @@ Based on endpoints and action performed
 
 ## 12. Security
 
-
 ### - [CSP](https://rapidapi.com/learn/rest#csp)
 
 CSP
@@ -293,11 +292,9 @@ originated from. This helps to prevent attacks such as CSRF and XSS by
 preventing a malicious website from making requests to your API on
 behalf of a user.
 
-
 ## 13. Versioning
 
-
-### - URL versioning 
+### - URL versioning
 
 eg. `https://api.example.com/v1/customers`
 
@@ -305,7 +302,7 @@ eg. `https://api.example.com/v1/customers`
 
 eg. `https://api.example.com/customers?version=1`
 
-### - Header versioning 
+### - Header versioning
 
 eg. `X-Api-Version: 1`
 
@@ -313,9 +310,7 @@ eg. `X-Api-Version: 1`
 
 eg. `Accept: application/vnd.example.api.v1+json`
 
-
 ## 14. Future of REST APIs
-
 
 ### - Increased adoption of GraphQL
 
@@ -326,7 +321,6 @@ eg. `Accept: application/vnd.example.api.v1+json`
 ### - Greated focus on API security
 
 ### - More tools and framework for API developement
-
 
 ## 15. Next steps
 
